@@ -1,8 +1,8 @@
 
 module.exports = {
-  SESSION_ID: "",  // add your Session Id here
+  SESSION_ID: "",  // malvin~ouMnBYxS#g_QjuAq72t9JPYgpNJ26LC9NGodrupq8gGokw0Ss4X4
   
-  OWNER_NUMBER: "263714757857", // put your phone number here
+  OWNER_NUMBER: "263714757857", // 2348061708739
   
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   
